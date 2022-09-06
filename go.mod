@@ -23,7 +23,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/moby/buildkit v0.8.1
 	github.com/moby/sys/mount v0.2.0 // indirect
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/pkg/errors v0.9.1
 	github.com/robertkrimen/otto v0.0.0-20200922221731-ef014fd054ac
 	github.com/sabhiram/go-gitignore v0.0.0-20180611051255-d3107576ba94
